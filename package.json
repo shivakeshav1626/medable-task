@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.2.1",
+    "joi": "^18.0.2",
+    "jsonwebtoken": "^9.0.3",
+    "nodemon": "^3.1.11"
+  },
+  "name": "assessment-1-user-management-20260206t183842z-1-001",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node assessment-1-user-management/server.js",
+    "dev": "nodemon assessment-1-user-management/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
